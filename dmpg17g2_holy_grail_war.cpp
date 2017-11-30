@@ -1,3 +1,6 @@
+// problem: https://dmoj.ca/problem/dmpg17g2
+// solution: maximum sub-segment sum problem with a segment tree
+
 #include <bits/stdc++.h>
 using namespace std;
 
